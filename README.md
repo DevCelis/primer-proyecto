@@ -67,3 +67,22 @@ class Program
     }
 }
 ````
+
+## Ejercicio HelloWorld con arrow functions.
+
+###   <img src="img/js.png" width="30" style="vertical-align: -5px">
+
+````javascript
+const holaMundo = () => {
+  console.log("Hola mundo");
+};
+
+holaMundo();
+
+/*O también*/
+
+const holaMundo = () => console.log("Hola mundo");
+
+holaMundo();
+
+````
