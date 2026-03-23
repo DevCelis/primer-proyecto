@@ -87,3 +87,10 @@ holaMundo();
 
 ````
 ### como hacer un pull request
+
+
+### Ejercicio HelloWorld con Bash
+
+````bash
+echo "Hello World"
+````
